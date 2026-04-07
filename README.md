@@ -50,7 +50,7 @@ Possible arguments:
 The direct outputs will be stored in `outputs/`. Move them to the Unity client repo and you can finally see the landscape scenes in Unity. (Unity client repo is being prepared)
 
 ### Dataset
-If you want to use the StagePro-v1 dataset for non-commercial use, please fill the [<span style="color:blue">release agreement</span>](agreement.pdf) and send email to yangphan@shu.edu.cn
+If you want to use the GardenVerse dataset for non-commercial use, please fill the [<span style="color:blue">release agreement</span>](agreement.pdf) and send email to yangphan@shu.edu.cn
 
 ## Citation
 Please cite the paper if you feel it is useful.
