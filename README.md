@@ -5,8 +5,7 @@
 </div>
 
 <div align = 'center'>
-<b>Zhaoxing Gan¹, Mengtian Li¹²†, Ruhua Chen³, Zhongxia Ji³,  
-Sichen Guo³, Huanling Hu¹, Guangnan Ye¹†, Zuo Hu³</b>
+<b>Mengtian Li¹²†, Fan Yang¹, Ruixue Xiong¹, Yiyan Fan¹, Zhifeng Xie¹²†, Zeyu Wang³†</b>
 
 ¹Shanghai University, ²Shanghai Engineering Research Center of Motion Picture Special Effects, ³The Hong Kong University of Science and Technology (Guangzhou)  
 
