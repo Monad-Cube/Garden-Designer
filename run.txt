@@ -1,0 +1,9 @@
+------ largeand centering -----
+python main.py -q -t "A wonderful scape with a big water occupying most of the area, few mountains and forests."
+
+------ centering ------
+python main.py -q -t "A wonderful scape with a water, few mountains and forests."
+
+------ Garden Style ------
+python main.py -q -t "A wonderful chinese garden with a lake, a few architectures around the lake"
+python main.py -q -e -g -t "A wonderful chinese garden with a lake, a few architectures around the lake"

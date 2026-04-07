@@ -1,0 +1,14 @@
+numpy
+openai
+matplotlib
+tqdm 
+argparse
+perlin_numpy 
+scipy 
+shapely
+opencv-python
+# addition
+python-dotenv
+tenacity
+# matplot gui
+tk
