@@ -12,6 +12,12 @@
 📧 {mtli, yangphan, ruixuexiong, yiyanfan, zhifeng_xie}@shu.edu.cn, zeyuwang@ust.hk
 </div>
 
+<div align="center">
+<a href="https://monad-cube.github.io/GardenDesigner/"><img src="https://img.shields.io/badge/Project%20Page-Website-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="Project Page"></a>
+<a href="https://arxiv.org/abs/2604.01777"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-4B8BBE?style=for-the-badge" alt="License"></a>
+</div>
+
 <h5 align="center">
 <img src="teaser.png" width="800px"/><br/>
 </h5>
